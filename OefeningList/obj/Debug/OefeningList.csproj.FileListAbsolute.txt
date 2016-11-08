@@ -1,0 +1,6 @@
+C:\Users\ralph\Desktop\C#\Array\OefeningList\OefeningList\bin\Debug\OefeningList.exe.config
+C:\Users\ralph\Desktop\C#\Array\OefeningList\OefeningList\bin\Debug\OefeningList.exe
+C:\Users\ralph\Desktop\C#\Array\OefeningList\OefeningList\bin\Debug\OefeningList.pdb
+C:\Users\ralph\Desktop\C#\Array\OefeningList\OefeningList\obj\Debug\OefeningList.exe
+C:\Users\ralph\Desktop\C#\Array\OefeningList\OefeningList\obj\Debug\OefeningList.pdb
+C:\Users\ralph\Desktop\C#\Array\OefeningList\OefeningList\obj\Debug\OefeningList.csprojResolveAssemblyReference.cache
